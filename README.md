@@ -1,5 +1,5 @@
 # Overview
-A Pizza Order Management website which is developed using Blazor. This website illustrates the concept of interaction with data and using pages, routing and layouts to improve Blazor navigation. I will implement more features into this website as I learn more about Blazor. 
+A Pizza Order Management website which is developed using Blazor during my independent learning with Blazor. This website illustrates the concept of interaction with data and using pages, routing and layouts to improve Blazor navigation. I will implement more features into this website as I learn more about Blazor. 
 
 # Prerequisites 
 .NET 6.0 SDK and C# dev kit (if you are using Visual Studio Code).
