@@ -5,4 +5,4 @@ A Pizza Order Management website which is developed using Blazor. This website i
 .NET 6.0 SDK and C# dev kit (if you are using Visual Studio Code).
 
 # How to run this app
-Run the command ```dotnet watch``` or press F5 to run and debug the website if you are using Visual Studio Code. 
+Run the command ```dotnet watch``` or press ```F5``` to run and debug the website if you are using Visual Studio Code. 
