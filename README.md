@@ -1,5 +1,5 @@
 # Overview
-A Pizza Order Management website which uses Blazor C# for learning purposes.
+A Pizza Order Management website which is developed using Blazor C#.
 
 # Contributing
 
